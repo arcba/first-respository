@@ -2,5 +2,4 @@ Bienvenido a mi profile de GitHub!
 
 Desarrollo  de software
 
-
-Ing. Rey Corvalan
+Ing. Alejandro Rey Corvalan
